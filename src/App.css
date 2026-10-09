@@ -1,0 +1,43 @@
+header {
+        text-align: center;
+        background-color: rgb(17, 29, 29);
+        color: white;
+    }
+
+.nav-links {
+    display: flex; 
+    justify-content: center;
+    list-style: none;    
+    margin: 0;
+    padding: 10px 0;
+    gap: 30px;
+}
+
+.nav-links a {
+    text-decoration: none; 
+    color: #d5e3e4;        
+    font-size: 18px;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+ 
+
+body {
+        text-align: left;
+        background-color: darkslategray;
+        color: white;
+    }
+
+footer {
+        text-align: center;
+        background-color: rgb(17, 29, 29);
+        color: white;
+    }
+* a:hover {
+    color: #007BFF;
+}
+.rpg-gs a:hover {
+    color: #007BFF;
+    
+    
+}
